@@ -1,5 +1,5 @@
 # Olá, seja bem vindo!
-📌 meu nome é Deysiane;<br>📆 tenho 20 anos;<br>🎮 sou estudante de ADS;<br>💰  trabalho na área da contabilidade;<br>📚 gosto constantemente de aprender; <br>💻 data science será meu próximo estudo por causa da área em que atuo.
+📌 meu nome é Deysiane;<br>📆 tenho 20 anos;<br>🎮 sou estudante de ADS;<br>💰  trabalho na área da contabilidade.<br>
 
 
 ## 🌐 Socials:
