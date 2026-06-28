@@ -1,5 +1,5 @@
 # Olá, seja bem vindo!
-📌 meu nome é Deysiane;<br>📆 tenho 22 anos;<br>🎮 sou estudante de ADS;<br>💰  trabalho na área de Implantação de ERP.<br>
+📌 meu nome é Deysiane;<br>📆 tenho 22 anos;<br>🎮 sou estudante de ADS;<br>💻  trabalho na área de Implantação de ERP.<br>
 
 
 ## 🌐 Socials:
